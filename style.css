@@ -1,0 +1,31 @@
+body{
+    background-color: B3E2A7;
+
+}
+
+.caroh{
+    color: black;
+    font-weight: 800;
+    font-size: xx-large;
+}
+
+.icon-square{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+
+}
+
+/* #white{
+    border: white solid;
+    border-radius: 5px;
+       
+} */
+
+#features{
+    display: flex;
+    border: solid white;
+    margin-top:10px ;
+    margin-bottom: 10px;
+
+}
